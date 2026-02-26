@@ -116,7 +116,7 @@ color: white;
      }
      .cards-container {
         display: flex;
-        justify-content: space-between; 
+        justify-content: space-around; 
         align-items: start;
         
      }
@@ -190,3 +190,4 @@ color: #2C3E50
     align-items: center;
     flex-direction: column;
 }
+
